@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dreammaker",
+			"dme": "EOTSUPDATE.dme",
+			"problemMatcher": [
+				"$dreammaker"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"label": "dm: build - EOTSUPDATE.dme"
+		}
+	]
+}

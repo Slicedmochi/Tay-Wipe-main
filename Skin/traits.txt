@@ -1,0 +1,56 @@
+Traits
+
+
+(5%) Hard Worker –
+This character, through sheer determination and will make their dreams come true. They are all about putting in, day-in and day-out, until they see results. Their work ethic is unmatched and they will continue until they are truly great.
+ 
+Note: Locks this character into 1 Specialization until they have completely mastered it. This character has the cost of all perks reduced by 2 PP, and creating Custom Techniques with this Specialization reduced by 3 DP. They can create Custom Techniques for this Specialization for free at every ranked letter grade.
+ 
+done
+(5%) Genius –
+A mind that trumps raw talent, this character has the ability to observe, decode, and employ various techniques and abilities. Their mind if far beyond that of any shinobi of their day and age and they have extreme potential with their prowess of the mind alone.
+ 
+Note: Lowers the requirements of all perks and techniques by 1 step. This character can create Custom Techniques for 2 DP less than normal. This character gains Marks more easily than a normal character.
+ 
+done
+(10%) Skilled –
+This character is naturally skilled, from birth they’ve had a natural knack for a certain skill and their potential was noticed by those around them.
+ 
+Note: This character gains 1 Major Skill for free. At C-rank and every letter grade above they gain 1 Minor Skill for free.
+(10%) Brilliant –
+This character is naturally talented at decoding techniques, how they operate and exactly how to apply them. Their mind is naturally atoned to the creation and use of extremely complex techniques.
+ 
+Note: Halves the number of Marks needed to gain a Unique. This character can create 2 derivatives of their Unique for free, both having to be a lower rank than their Unique.
+//ignore
+(10%) Able-Bodied –
+This character has a naturally powerful body, and it shows by their unnatural stature. This character tends to be much larger and muscular than a normal person and have abilities that compliment this.
+ 
+Note: This character has their stat caps raised by 1 step in 2 stats besides Control. This character can grow to the size of 6’4 and their decline is raised by 10 years. This character gains +1 step to Constitution at each letter grade of rank.
+ 
+ 
+(5%) Driven –
+This character is determined, whether it is to be like someone they see as a hero, or because of events in their past. This character has abandoned motivation for determination, and will perform to grow stronger.
+ 
+Note: This character can pick any Trait other than Prodigy.
+ 
+(10%) Willful –
+This character has an unnaturally strong will, they seemingly have an old-soul. They are set in their ways and care little for the opinion of others on the matter, being certain of their own ways.
+ 
+Note: This character starts out with a Will Perk of their choosing, some will perks do not apply with this trait.
+ 
+ 
+(10%,5%,1%) Fortunate I, II, III –
+This character was luckily born fortunate. This is either being born into a rich family, having an inheritance, or some good fortune that has blessed them with extra funds.
+ 
+Note: This character starts with additional Ryo (5,000/10,000/15,000) and gains more Ryo from their PayRoll (+150/+300/+450). III means they are the child or relative of a Don’Yoku and other than money have great notoriety and power inside Don’Yoku City.
+ 
+ 
+Cursed –
+A strange aura radiates from this character, it is overwhelmingly odd, but one can’t seem to put their finger on it.
+ 
+Note: ???
+
+(50%) Talentless -
+This character has no natural talent, but has room to gain one. They are able to focus their efforts much better than those who are naturally gifted.
+
+Note: This character has 3 Focus Slots instead of 1.

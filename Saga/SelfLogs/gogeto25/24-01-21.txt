@@ -1,0 +1,226 @@
+<br>Sun Jan 24 01:23:08 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 01:23:08 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 01:23:08 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 01:23:08 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 01:24:00 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 01:24:00 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 11 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 12 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 13 over their run tiles.
+<br>Sun Jan 24 01:24:51 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has revealed themselves.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 50 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 51 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 52 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 53 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 54 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 55 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 56 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 57 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 58 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 59 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 60 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 61 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 62 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 63 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 64 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 65 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 01:25:42 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:35:05 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 01:38:30 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has revealed themselves.
+<br>Sun Jan 24 01:38:30 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 23 over their run tiles.
+<br>Sun Jan 24 01:38:30 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 24 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has revealed themselves.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 31 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 32 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 33 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 34 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 35 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 36 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 37 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 38 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 39 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 40 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 41 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 42 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 43 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 44 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 45 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 46 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 47 over their run tiles.
+<br>Sun Jan 24 01:42:46 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 01:42:46 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 01:53:00 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has revealed themselves.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:53:52 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 01:53:52 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 01:53:52 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 02:01:32 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has revealed themselves.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 11 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 12 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 13 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 14 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 15 over their run tiles.
+<br>Sun Jan 24 02:02:24 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 02:02:24 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 02:02:24 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 12:24:28 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:24:28 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 12:25:20 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 11 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 12 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 13 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 14 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 15 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:25:20 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 12:26:11 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 11 over their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:29:36 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 12:29:36 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:29:36 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:36:25 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 7 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 8 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 9 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 10 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 11 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 12 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 13 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:37:16 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Sun Jan 24 12:37:16 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their dodge tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their dodge tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 1 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 2 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 3 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 4 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 5 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has moved 6 over their run tiles.
+<br>Sun Jan 24 12:37:16 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Sun Jan 24 13:49:48 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> has gone AFK
+<br>Sun Jan 24 20:38:33 2021<font color="#db7a20">Yuki, Sdjgnsdgj<font color = white> is no longer AFK

@@ -1,0 +1,48 @@
+turf
+	KIRIACAD
+		layer=999
+		density=0
+		var/goingto
+		Entered()
+			usr.layer=70
+			usr.loc=locate(goingto)
+		Exited()
+			usr.layer=initial(usr.layer)
+		Exited()
+			usr.layer=initial(usr.layer)
+		Sect1A
+			A1
+				goingto=/turf/KIRIACAD/Sect1A/B1
+
+			B1
+				goingto=/turf/KIRIACAD/Sect1A/A1
+	KIRIRAMEN
+		layer=999
+		density=0
+		var/goingto
+		Entered()
+			usr.layer=70
+			usr.loc=locate(goingto)
+		Exited()
+			usr.layer=initial(usr.layer)
+		Sect1A
+			A1
+				goingto=/turf/KIRIRAMEN/Sect1A/B1
+
+			B1
+				goingto=/turf/KIRIRAMEN/Sect1A/A1
+	KONORAMEN
+		layer=999
+		density=0
+		var/goingto
+		Entered()
+			usr.layer=70
+			usr.loc=locate(goingto)
+		Exited()
+			usr.layer=initial(usr.layer)
+		Sect1A
+			A1
+				goingto=/turf/KONORAMEN/Sect1A/B1
+
+			B1
+				goingto=/turf/KONORAMEN/Sect1A/A1

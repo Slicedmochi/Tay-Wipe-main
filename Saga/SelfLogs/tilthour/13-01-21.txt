@@ -1,0 +1,77 @@
+<br>Wed Jan 13 11:25:10 2021<font color=white>You have entered combat. ( Testing's Combat 521 ) 
+<br>Wed Jan 13 11:43:56 2021<font color=white>You have entered combat. ( Testing's Combat 343 ) 
+<br>Wed Jan 13 11:43:56 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:43:56 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:44:48 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:44:48 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:44:48 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:44:48 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 11:44:48 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color=white>You have entered combat. ( Testing's Combat 6 ) 
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:01:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:24:03 2021<font color="#db7a20">Yuki, Test<font color = white> has gone AFK
+<br>Wed Jan 13 12:56:28 2021<font color="#db7a20">Yuki, Test<font color = white> is no longer AFK
+<br>Wed Jan 13 12:57:20 2021<font color=white>You have entered combat. ( Testing's Combat 570 ) 
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:57:20 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color=white>You have entered combat. ( Testing's Combat 427 ) 
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 12:59:53 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 13:05:52 2021<font color=white>You have entered combat. ( Testing's Combat 81 ) 
+<br>Wed Jan 13 13:05:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 13:05:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 13:05:52 2021<font color="#db7a20">Yuki, Test<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color=white>You have entered combat. ( Sdgdfg's Combat 49 ) 
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:01:20 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:09:52 2021<font color=white>You have entered combat. ( Sdgdfg's Combat 782 ) 
+<br>Wed Jan 13 14:09:52 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:09:52 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:10:43 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color=white>You have entered combat. ( Sdgdfg's Combat 890 ) 
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:13:16 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color=white>You have entered combat. ( Sdgdfg's Combat 568 ) 
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 13 14:23:31 2021<font color="#db7a20">Aburame, Dgfsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.

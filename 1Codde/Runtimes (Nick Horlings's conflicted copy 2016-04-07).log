@@ -1,0 +1,642 @@
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,131
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=20;icon-y=13;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=14;icon-y=24;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=59;icon-y=16;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=8;icon-y=14;left=1;drag...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=42;icon-y=7;left=1;drag...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=19;icon-y=16;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=58;icon-y=14;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("databaseGrid", "database.databaseGrid", "icon-x=58;icon-y=13;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=31;icon-y=15;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("databaseGrid", "database.databaseGrid", "icon-x=31;icon-y=15;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=87;icon-y=20;left=1;dra...")
+runtime error: undefined proc or verb /mob/updatePerkData().
+
+proc name: Click (/obj/Perk/perk/Custom/Click)
+  source file: PerkDatabase.dm,130
+  usr: the ghdfghdfgh (/mob)
+  src: the dfgasdf (/obj/Perk/perk/Custom)
+  call stack:
+the dfgasdf (/obj/Perk/perk/Custom): Click("1,2", "database.databaseGrid", "icon-x=87;icon-y=20;left=1;dra...")
+runtime error: Cannot read null.icon
+proc name: updatePerkData (/mob/proc/updatePerkData)
+  source file: PerkDatabase.dm,101
+  usr: the ghdfghdfgh (/mob)
+  src: the ghdfghdfgh (/mob)
+  call stack:
+the ghdfghdfgh (/mob): updatePerkData(null)
+the ghdfghdfgh (/mob): modifyPerkPoints()
+runtime error: type mismatch: "sadfasdf" + 4574
+proc name: add jutsu to custom list (/mob/Admin3/verb/add_jutsu_to_custom_list)
+  source file: RoleplayLogging.dm,255
+  usr: the ghdfghdfgh (/mob)
+  src: the ghdfghdfgh (/mob)
+  call stack:
+the ghdfghdfgh (/mob): add jutsu to custom list(the ghdfghdfgh (/mob))
+runtime error: undefined variable /obj/var/client
+proc name: Cross (/obj/tent/warper/Cross)
+  source file: Clothes.dm,2911
+  usr: the ghdfghdfgh (/mob)
+  src: the warper (/obj/tent/warper)
+  call stack:
+the warper (/obj/tent/warper): Cross(the obj (/obj))
+the obj (/obj): Move(Era of the Shinobi (4,2,27) (/turf/interiors/caveinterior))
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+Crazah (/client): North()
+runtime error: undefined variable /obj/var/client
+proc name: Cross (/obj/tent/warper/Cross)
+  source file: Clothes.dm,2911
+  usr: the ghdfghdfgh (/mob)
+  src: the warper (/obj/tent/warper)
+  call stack:
+the warper (/obj/tent/warper): Cross(the obj (/obj))
+the obj (/obj): Move(Era of the Shinobi (4,2,27) (/turf/interiors/caveinterior))
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+the ghdfghdfgh (/mob): Move(Era of the Shinobi (164,158,3) (/turf/Terrain/Grass), 1)
+Crazah (/client): North()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+  usr: the ghdfghdfgh (/mob)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(0)
+the ghdfghdfgh (/mob): Announce TS()
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+proc name: SaveYear (/proc/SaveYear)
+  source file: YearSystem1.dm,34
+Warning: further proc crash messages are being suppressed to prevent overload...
+runtime error: Cannot modify null.eye.
+proc name: Death (/mob/proc/Death)
+  source file: Combat.dm,74
+  usr: the ghdfghdfgh (/mob)
+  src: the ghdfghdfgh (/mob)
+  call stack:
+the ghdfghdfgh (/mob): Death(the ghdfghdfgh (/mob))
+the ghdfghdfgh (/mob): Admin Kill(the ghdfghdfgh (/mob))
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,158,25) (/turf/Block), "Map.map", "icon-x=7;icon-y=1;left=1;scree...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,158,25) (/turf/Block), "Map.map", "icon-x=7;icon-y=1;left=1;scree...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,157,25) (/turf/Terrain/Cliff), "Map.map", "icon-x=13;icon-y=18;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,157,25) (/turf/Terrain/Cliff), "Map.map", "icon-x=13;icon-y=18;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=19;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=19;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=20;icon-y=2;left=1;scre...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=20;icon-y=2;left=1;scre...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=20;icon-y=2;left=1;scre...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=20;icon-y=2;left=1;scre...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=17;icon-y=31;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=17;icon-y=31;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=17;icon-y=31;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (142,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=17;icon-y=31;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (141,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=29;icon-y=27;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (141,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=29;icon-y=27;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (141,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=29;icon-y=27;left=1;scr...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+  usr: Fgsfdg (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): deathReward(0)
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (141,156,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=29;icon-y=27;left=1;scr...")
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+  usr: Fgsfdg (/mob)
+  src: Shinigami (/mob/Shinigami)
+  call stack:
+Shinigami (/mob/Shinigami): Click(Era of the Shinobi (141,155,25) (/turf/Terrain/Grass/Center), "Map.map", "icon-x=5;icon-y=31;left=1;scre...")
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+runtime error: Cannot modify null.mob.
+proc name: Click (/mob/Shinigami/Click)
+  source file: Combat.dm,18
+runtime error: Cannot modify null.eye.
+proc name: deathReward (/mob/proc/deathReward)
+  source file: Combat.dm,22
+runtime error: Cannot read "NoneNone".len
+proc name: CustomInput (/mob/proc/CustomInput)
+  source file: Alerts.dm,268
+  usr: Fgsdfg (/mob)
+  src: Fgsdfg (/mob)
+  call stack:
+Fgsdfg (/mob): CustomInput("What clan were you born in?", "Please choose an option.", "NoneNone", null)
+Fgsdfg (/mob): ClanWtf()
+Fgsdfg (/mob): Finish()
+runtime error: Cannot read null.name
+proc name: ClanWtf (/mob/proc/ClanWtf)
+  source file: Clan Prob.dm,41
+  usr: Fgsdfg (/mob)
+  src: Fgsdfg (/mob)
+  call stack:
+Fgsdfg (/mob): ClanWtf()
+Fgsdfg (/mob): Finish()
+runtime error: Cannot read "NoneNone".len
+proc name: CustomInput (/mob/proc/CustomInput)
+  source file: Alerts.dm,268
+  usr: Dfgfsfdgsdfg (/mob)
+  src: Dfgfsfdgsdfg (/mob)
+  call stack:
+Dfgfsfdgsdfg (/mob): CustomInput("What clan were you born in?", "Please choose an option.", "NoneNone", null)
+Dfgfsfdgsdfg (/mob): ClanWtf()
+Dfgfsfdgsdfg (/mob): Finish()
+runtime error: Cannot read null.name
+proc name: ClanWtf (/mob/proc/ClanWtf)
+  source file: Clan Prob.dm,41
+  usr: Dfgfsfdgsdfg (/mob)
+  src: Dfgfsfdgsdfg (/mob)
+  call stack:
+Dfgfsfdgsdfg (/mob): ClanWtf()
+Dfgfsfdgsdfg (/mob): Finish()
+World no longer opened to new users.

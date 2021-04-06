@@ -1,0 +1,64 @@
+<br>Tue Jan 19 14:15:50 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 14:17:32 2021<font color=white>Your Ai List has been fixed
+<br>Tue Jan 19 14:17:32 2021<font color=white>You have fixed Kaguya, Safdsf's Ai List
+<br>Tue Jan 19 14:20:06 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 14:26:56 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 14:29:29 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 14:30:20 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 14:30:20 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Tue Jan 19 15:07:02 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Tue Jan 19 15:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Tue Jan 19 15:34:20 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 3 ) 
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their dodge tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Tue Jan 19 15:34:20 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 15:34:20 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Tue Jan 19 15:34:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Tue Jan 19 15:38:36 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 215 ) 
+<br>Tue Jan 19 15:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Tue Jan 19 15:42:52 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 279 ) 
+<br>Tue Jan 19 15:43:44 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Tue Jan 19 15:44:35 2021<font color=white>Dsgsdg's Combat 279
+<br>Tue Jan 19 15:48:51 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 922 ) 
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Tue Jan 19 15:48:51 2021<font color=white>Dsgsdg's Combat 922
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has started tracking turns (1)
+<br>Tue Jan 19 15:48:51 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Jan 19 15:48:51 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Tue Jan 19 15:48:51 2021<font color=white>Dsgsdg's Combat 922
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has increased their turn counter to 2
+<br>Tue Jan 19 15:48:51 2021<font color=white>Dsgsdg's Combat 922
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has increased their turn counter to 3
+<br>Tue Jan 19 15:48:51 2021<font color=white>Dsgsdg's Combat 922
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has increased their turn counter to 4
+<br>Tue Jan 19 15:48:51 2021<font color=white>Dsgsdg's Combat 922
+<br>Tue Jan 19 15:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has increased their turn counter to 5
+<br>Tue Jan 19 16:09:20 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Tue Jan 19 16:44:19 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Tue Jan 19 16:59:40 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 827 ) 
+<br>Tue Jan 19 16:59:40 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Tue Jan 19 16:59:40 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Tue Jan 19 16:59:40 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Tue Jan 19 16:59:40 2021<font color=white>Dsgsdg's Combat 827
+<br>Tue Jan 19 17:00:32 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has started tracking turns (1)
+<br>Tue Jan 19 17:17:36 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 771 ) 
+<br>Tue Jan 19 17:17:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Tue Jan 19 17:17:36 2021<font color=white>Dsgsdg's Combat 771
+<br>Tue Jan 19 17:17:36 2021<font color=white>You are already in combat, fool
+<br>Tue Jan 19 17:17:36 2021<font color=white>Dsgsdg's Combat 771
+<br>Tue Jan 19 17:17:36 2021<font color=white>You are already in combat, fool
+<br>Tue Jan 19 17:25:16 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 759 ) 
+<br>Tue Jan 19 17:25:16 2021<font color=white>Dsgsdg's Combat 759
+<br>Tue Jan 19 17:25:16 2021<font color=white>You are already in combat, fool
+<br>Tue Jan 19 17:26:59 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 491 ) 
+<br>Tue Jan 19 17:26:59 2021<font color=white>Dsgsdg's Combat 491
+<br>Tue Jan 19 17:26:59 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has declared the end of a turn
+<br>Tue Jan 19 17:26:59 2021<font color=white>You are already in combat, fool

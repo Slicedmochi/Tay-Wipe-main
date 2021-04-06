@@ -1,0 +1,288 @@
+<br>Fri Jan 22 00:14:52 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has gone AFK | (X:227 Y:78 Z:27)
+<br>Fri Jan 22 00:14:52 2021<font size=-4><font color=white>*Kaguya, Safdsf has gone AUTOAFK * | (X:227 Y:78 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their dodge tiles. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles. | (X:228 Y:76 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles. | (X:228 Y:78 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles. | (X:229 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles. | (X:229 Y:78 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles. | (X:228 Y:78 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:228 Y:77 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their walk tiles. | (X:227 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their dodge tiles. | (X:226 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles. | (X:225 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles. | (X:224 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles. | (X:223 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles. | (X:222 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles. | (X:221 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles. | (X:220 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles. | (X:219 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 8 over their dodge tiles. | (X:218 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their run tiles. | (X:217 Y:73 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:217 Y:74 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:217 Y:74 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their walk tiles. | (X:217 Y:79 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their dodge tiles. | (X:217 Y:80 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles. | (X:217 Y:81 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles. | (X:217 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles. | (X:217 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles. | (X:217 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles. | (X:217 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles. | (X:218 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles. | (X:219 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved 8 over their dodge tiles. | (X:220 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved their run tiles. | (X:221 Y:82 Z:27)
+<br>Fri Jan 22 01:11:12 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:222 Y:82 Z:27)
+<br>Fri Jan 22 01:13:45 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved a Scroll to their bag. | (X:225 Y:77 Z:27)
+<br>Fri Jan 22 01:13:45 2021<font color="#db7a20">(Gogeto25)(Kaguya, Safdsf)Kaguya, Safdsf<font color = white> has moved a Scroll to their bag. | (X:225 Y:77 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 2nd of June, 116
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Your Ai List is bugged, gmhelp if it isnt fixed after this
+Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved a Scroll to their bag.
+You have entered the game world. | (X:226 Y:78 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 2nd of June, 116
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Your Ai List is bugged, gmhelp if it isnt fixed after this
+Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved a Scroll to their bag.
+You have entered the game world. | (X:226 Y:78 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh says:<font color = white> yeah i like niggers | (X:226 Y:77 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh says:<font color = white> yeah i like niggers | (X:226 Y:77 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh dsg  orld.echnique: Bunshin!  echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! 
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 2nd of June, 116
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Your Ai List is bugged, gmhelp if it isnt fixed after this
+Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved a Scroll to their bag.
+You have entered the game world. | (X:225 Y:75 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh dsg  orld.echnique: Bunshin!  echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! echnique: Bunshin! 
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+Kaguya, Safdsf has activated a technique: Bunshin!
+Kaguya, Safdsf has activated a perk: Kaguya Clan!
+You have entered the game world.
+Current date: The 13th of May, 116
+You have entered the game world.
+Current date: The 2nd of June, 116
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Your Ai List is bugged, gmhelp if it isnt fixed after this
+Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved their walk tiles.
+Kaguya, Safdsf has moved their dodge tiles.
+Kaguya, Safdsf has moved 1 over their dodge tiles.
+Kaguya, Safdsf has moved 2 over their dodge tiles.
+Kaguya, Safdsf has moved 3 over their dodge tiles.
+Kaguya, Safdsf has moved 4 over their dodge tiles.
+Kaguya, Safdsf has moved 5 over their dodge tiles.
+Kaguya, Safdsf has moved 6 over their dodge tiles.
+Kaguya, Safdsf has moved 7 over their dodge tiles.
+Kaguya, Safdsf has moved 8 over their dodge tiles.
+Kaguya, Safdsf has moved their run tiles.
+Kaguya, Safdsf has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+Kaguya, Safdsf has moved a Scroll to their bag.
+You have entered the game world. | (X:225 Y:75 Z:27)
+<br>Fri Jan 22 01:16:19 2021<font color=white>You have been rewarded 3 point(s) | (X:225 Y:75 Z:27)
+<br>Fri Jan 22 01:18:01 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!  echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! | (X:223 Y:78 Z:27)
+<br>Fri Jan 22 01:18:01 2021<font color="#db7a20">(Gogeto25)(Nara, Vdhhdfh)Nara, Vdhhdfh echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!  echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin!echnique: Bunshin!hnique: Bunshin!nique: Bunshin!chnique: Bunshin! | (X:223 Y:78 Z:27)
+<br>Fri Jan 22 01:18:01 2021This entry was too long to be apended to the chat log. | (X:224 Y:78 Z:27)
+<br>Fri Jan 22 01:18:01 2021This entry was too long to be apended to the chat log. | (X:224 Y:78 Z:27)
+<br>Fri Jan 22 01:18:52 2021This entry was too long to be apended to the chat log. | (X:224 Y:78 Z:27)
+<br>Fri Jan 22 01:18:52 2021This entry was too long to be apended to the chat log. | (X:224 Y:78 Z:27)

@@ -1,0 +1,114 @@
+<br>Thu Jan 14 22:56:48 2021<font color=white>You have entered combat. ( Fdhdgfh's Combat 16 ) 
+<br>Thu Jan 14 22:56:48 2021<font color="#db7a20">Hozuki, Fdhgdfh<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 22:57:39 2021<font color="#db7a20">Hozuki, Fdhgdfh<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 22:59:21 2021<font color=white>You have entered combat. ( Fdhdgfh's Combat 638 ) 
+<br>Thu Jan 14 22:59:21 2021<font color="#db7a20">Hozuki, Fdhgdfh<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:03:37 2021<font color=white>You have entered combat. ( Fdhdgfh's Combat 84 ) 
+<br>Thu Jan 14 23:03:37 2021<font color="#db7a20">Hozuki, Fdhgdfh<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:07:53 2021<font color=white>You have entered combat. ( Fdhdgfh's Combat 734 ) 
+<br>Thu Jan 14 23:07:53 2021<font color="#db7a20">Hozuki, Fdhgdfh<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:09:36 2021<font color=white>You have entered combat. ( Sdgsdg's Combat 30 ) 
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:09:36 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:10:27 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:10:27 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:20:41 2021<font color=white>You have entered combat. ( Sdgsdg's Combat 914 ) 
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color=white>You have entered combat. ( Sdgsdg's Combat 998 ) 
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:20:41 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:21:32 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:22:24 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:22:24 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:22:24 2021<font color="#db7a20">Yuki, Dsgfdsg<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 975 ) 
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:29:13 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 539 ) 
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:38:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:51:24 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:51:24 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:51:24 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:52:16 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 949 ) 
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Thu Jan 14 23:52:16 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.

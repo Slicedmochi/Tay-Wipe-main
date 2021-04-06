@@ -1,0 +1,82 @@
+<br>Tue Mar 23 17:59:15 2021<font color=white>You would have 4 dodges
+<br>Tue Mar 23 17:59:15 2021<font color=white>You would take C damage, your guard is reduced by one.
+<br>Tue Mar 23 17:59:15 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their dodge tiles.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their dodge tiles.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their run tiles.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their run tiles.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 2 over their run tiles.
+<br>Tue Mar 23 18:00:06 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 3 over their run tiles.
+<br>Tue Mar 23 18:00:57 2021<font color=white>You would have -3 dodges
+<br>Tue Mar 23 18:01:48 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Tue Mar 23 18:02:40 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has revealed themselves.
+<br>Tue Mar 23 18:02:40 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has revealed themselves.
+<br>Tue Mar 23 18:02:40 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their dodge tiles.
+<br>Tue Mar 23 18:02:40 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their dodge tiles.
+<br>Tue Mar 23 18:03:31 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has unsealed a 7x7 Water from their scroll.
+<br>Tue Mar 23 18:03:31 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has unsealed a 7x7 Water from their scroll.
+<br>Tue Mar 23 18:03:31 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has unsealed a 7x7 Water from their scroll.
+<br>Tue Mar 23 18:03:31 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has unsealed a 7x7 Water from their scroll.
+<br>Tue Mar 23 18:04:22 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reduced their dodges to -1
+<br>Tue Mar 23 18:04:22 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reset their dodges!
+<br>Tue Mar 23 18:04:22 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reduced their dodges to -1
+<br>Tue Mar 23 18:04:22 2021<font color=white>You would have 2 dodges
+<br>Tue Mar 23 18:04:22 2021<font color=white>You would have 1 dodges
+<br>Tue Mar 23 18:04:22 2021<font color=white>You would have -4 dodges
+<br>Tue Mar 23 18:05:13 2021<font color=white>You would have -4 dodges
+<br>Tue Mar 23 18:05:13 2021<font color=white>You would have 4 dodges
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reduced their dodges to -2
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reset their dodges!
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has dodged 1 times!
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has dodged 2 times!
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has dodged 3 times!
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has dodged 4 times!
+<br>Tue Mar 23 18:05:13 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reduced their dodges to 3
+<br>Tue Mar 23 19:17:45 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their run tiles.
+<br>Tue Mar 23 19:17:45 2021<font color = white> You have breached 65 tiles away from the source of combat, if this is legit, contact an admin.
+<br>Tue Mar 23 19:39:05 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has gone AFK
+<br>Tue Mar 23 19:46:46 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> is no longer AFK
+<br>Tue Mar 23 20:25:10 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has gone AFK
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> is no longer AFK
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 2 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 3 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 4 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 5 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 6 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 7 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 8 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 9 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 10 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 11 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 12 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 13 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 14 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 15 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 16 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 17 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 18 over their run tiles.
+<br>Tue Mar 23 20:31:08 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 19 over their run tiles.
+<br>Tue Mar 23 20:35:24 2021<font color=white>You would have 4 dodges
+<br>Tue Mar 23 20:35:24 2021<font color=white>You would take D+ damage, your guard is reduced by one.
+<br>Tue Mar 23 20:35:24 2021<font color=white>You would have 4 dodges
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has dodged 1 times!
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has reduced their dodges to 0
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 20 over their run tiles.
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 21 over their run tiles.
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 22 over their run tiles.
+<br>Tue Mar 23 20:36:16 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 23 over their run tiles.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their dodge tiles.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their dodge tiles.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved their run tiles.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 1 over their run tiles.
+<br>Tue Mar 23 20:37:07 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 2 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 3 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 4 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 5 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 6 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 7 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color="#db7a20">Kaguya, Jojojoj<font color = white> has moved 8 over their run tiles.
+<br>Tue Mar 23 20:37:58 2021<font color=white>You can't leave an AI while roaming, use the verb again to go back

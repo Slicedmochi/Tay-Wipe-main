@@ -1,0 +1,70 @@
+<br>Fri Jan 15 00:12:44 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:34:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:35:47 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 91 ) 
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 9 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 10 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 11 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 12 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 13 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 14 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 15 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 16 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 17 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 18 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 19 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 20 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 21 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 22 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 23 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 24 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 25 over their run tiles.
+<br>Fri Jan 15 00:35:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 26 over their run tiles.
+<br>Fri Jan 15 00:36:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 27 over their run tiles.
+<br>Fri Jan 15 00:36:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 28 over their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 27 ) 
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their run tiles.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:37:29 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their run tiles.
+<br>Fri Jan 15 00:39:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their run tiles.
+<br>Fri Jan 15 00:39:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their run tiles.
+<br>Fri Jan 15 00:39:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their run tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their walk tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their walk tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their walk tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Fri Jan 15 00:40:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their run tiles.
+<br>Fri Jan 15 01:21:52 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Fri Jan 15 01:26:59 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Fri Jan 15 01:48:19 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK

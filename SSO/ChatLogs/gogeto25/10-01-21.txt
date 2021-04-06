@@ -1,0 +1,5 @@
+<br>Sun Jan 10 08:30:40 2021<font color=white>You have entered combat. ( Tashino's Combat 155 )  | (X:231 Y:78 Z:27)
+<br>Sun Jan 10 08:30:40 2021<font color="#db7a20">(Gogeto25)(Akimichi, Bober)Akimichi, Bober<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:231 Y:78 Z:27)
+<br>Sun Jan 10 08:31:31 2021<font color="#db7a20">(Gogeto25)(Akimichi, Bober)Akimichi, Bober<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move. | (X:230 Y:77 Z:27)
+<br>Sun Jan 10 08:52:51 2021<font color="#db7a20">(Gogeto25)(Akimichi, Bober)Akimichi, Bober<font color = white> has gone AFK | (X:230 Y:77 Z:27)
+<br>Sun Jan 10 08:52:51 2021<font size=-4><font color=white>*Akimichi, Bober has gone AUTOAFK * | (X:230 Y:77 Z:27)

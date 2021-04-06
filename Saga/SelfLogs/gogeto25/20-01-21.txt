@@ -1,0 +1,120 @@
+<br>Wed Jan 20 07:31:47 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 575 ) 
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:31:47 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Wed Jan 20 07:31:47 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:31:47 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their dodge tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Wed Jan 20 07:32:38 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their run tiles.
+<br>Wed Jan 20 07:35:12 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 846 ) 
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:35:12 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Wed Jan 20 07:35:12 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their dodge tiles.
+<br>Wed Jan 20 07:35:12 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 7 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 8 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 9 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 10 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 11 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 12 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 13 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 14 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 15 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 16 over their run tiles.
+<br>Wed Jan 20 07:36:54 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:36:54 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 915 ) 
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:37:45 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Wed Jan 20 07:37:45 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles.
+<br>Wed Jan 20 07:37:45 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:45:26 2021<font color=white>You have entered combat. ( Dsgsdg's Combat 755 ) 
+<br>Wed Jan 20 07:45:26 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Wed Jan 20 07:45:26 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:45:26 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color=white>Your Ai List is bugged, gmhelp if it isnt fixed after this
+<br>Wed Jan 20 07:59:05 2021<font color=white>Current AI Number was over 0, but Ai numbers were under 1, fixing. If not fixed after, gm help.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 2 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 3 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 4 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 5 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 6 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved 1 over their dodge tiles.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:05 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has moved their walk tiles.
+<br>Wed Jan 20 07:59:56 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has used MoveTiles, this resets their movement, please be aware of this fact if they have used it twice or more to move.
+<br>Wed Jan 20 07:59:56 2021<font color=white>Dsgsdg's Combat 883
+<br>Wed Jan 20 08:19:34 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 08:20:25 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Wed Jan 20 10:36:06 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 11:22:11 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 12:10:49 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 18:33:07 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Wed Jan 20 18:53:36 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 20:12:57 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Wed Jan 20 20:32:35 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK
+<br>Wed Jan 20 23:28:22 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> is no longer AFK
+<br>Wed Jan 20 23:48:51 2021<font color="#db7a20">Kaguya, Safdsf<font color = white> has gone AFK

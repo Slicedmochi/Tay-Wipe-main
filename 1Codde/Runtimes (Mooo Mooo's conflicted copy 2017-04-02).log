@@ -1,0 +1,1148 @@
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicdatabase (/mob/proc/refreshpublicdatabase)
+  usr: (src)
+  src: Jemel (/mob)
+  src.loc: Era of the Shinobi (221,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Jemel (/mob): refreshpublicdatabase()
+Jemel (/mob): PublicDatabase()
+runtime error: Cannot read null.desc
+proc name: refreshpublicjutsu (/mob/proc/refreshpublicjutsu)
+  usr: (src)
+  src: Jemel (/mob)
+  src.loc: Era of the Shinobi (221,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Jemel (/mob): refreshpublicjutsu()
+Jemel (/mob): PublicDatabase()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct chakra (/mob/verb/deduct_chakra)
+  source file: Stats.dm,258
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (104,259,1) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Avainer (/mob): deduct chakra()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct stamina (/mob/verb/deduct_stamina)
+  source file: Stats.dm,342
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (104,259,1) (/turf/Konoha/Floor/Stone3)
+  call stack:
+Avainer (/mob): deduct stamina()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct stamina (/mob/verb/deduct_stamina)
+  source file: Stats.dm,342
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (102,254,1) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): deduct stamina()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct stamina (/mob/verb/deduct_stamina)
+  source file: Stats.dm,342
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (102,254,1) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): deduct stamina()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  source file: Notes.dm,332
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  source file: Admin.dm,45
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct stamina (/mob/verb/deduct_stamina)
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (105,240,1) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): deduct stamina()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct stamina (/mob/verb/deduct_stamina)
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (104,236,1) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): deduct stamina()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: deduct chakra (/mob/verb/deduct_chakra)
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (97,233,1) (/turf/Konoha/Savior/saviorgrass)
+  call stack:
+Avainer (/mob): deduct chakra()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Rewards' outside of current directory.
+proc name: SaveRewards (/proc/SaveRewards)
+  usr: (src)
+  src: null
+  call stack:
+SaveRewards()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicdatabase (/mob/proc/refreshpublicdatabase)
+  source file: perk_shop.dm,266
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicdatabase()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicjutsu (/mob/proc/refreshpublicjutsu)
+  source file: perk_shop.dm,456
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicjutsu()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicdatabase (/mob/proc/refreshpublicdatabase)
+  source file: perk_shop.dm,266
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicdatabase()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicjutsu (/mob/proc/refreshpublicjutsu)
+  source file: perk_shop.dm,456
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicjutsu()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicdatabase (/mob/proc/refreshpublicdatabase)
+  source file: perk_shop.dm,266
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicdatabase()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicjutsu (/mob/proc/refreshpublicjutsu)
+  source file: perk_shop.dm,456
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (228,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicjutsu()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read 5.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(5, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=50;icon-y=6;left=1;drag...")
+runtime error: Cannot read 50.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(50, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=44;icon-y=12;left=1;dra...")
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicdatabase (/mob/proc/refreshpublicdatabase)
+  source file: perk_shop.dm,266
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicdatabase()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read null.prerequisites
+proc name: refreshpublicjutsu (/mob/proc/refreshpublicjutsu)
+  source file: perk_shop.dm,456
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): refreshpublicjutsu()
+Avainer (/mob): PublicDatabase()
+runtime error: Cannot read 500.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(500, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=45;icon-y=10;left=1;dra...")
+runtime error: Cannot read 5.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(5, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=57;icon-y=20;left=1;dra...")
+runtime error: Cannot read 50.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,77,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(50, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=50;icon-y=21;left=1;dra...")
+runtime error: Cannot read 50.craftRank
+proc name: removeMinerals (/mob/proc/removeMinerals)
+  source file: Crafting.dm,226
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): removeMinerals(50, null)
+Senbon (/obj/items/Weapon/Senbon): DblClick("1,24", "crafting.itemGrid", "icon-x=65;icon-y=8;left=1;drag...")
+runtime error: bad client
+proc name: updateCraftBox (/mob/proc/updateCraftBox)
+  source file: Crafting.dm,261
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): updateCraftBox()
+runtime error: bad client
+proc name: updateCraftBox (/mob/proc/updateCraftBox)
+  source file: Crafting.dm,261
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): updateCraftBox()
+runtime error: bad client
+proc name: updateCraftBox (/mob/proc/updateCraftBox)
+  source file: Crafting.dm,261
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): updateCraftBox()
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: bad client
+proc name: updateCraftBox (/mob/proc/updateCraftBox)
+  source file: Crafting.dm,261
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (226,75,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): updateCraftBox()
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: bad client
+proc name: updateCraftBox (/mob/proc/updateCraftBox)
+  source file: Crafting.dm,266
+  usr: (src)
+  src: Avainer (/mob)
+  src.loc: Era of the Shinobi (229,71,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Avainer (/mob): updateCraftBox()
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Resource Broker
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Save\awoo' outside of current directory.
+proc name: Save (/mob/proc/Save)
+  usr: (src)
+  src: Kaguya, Safdsa (/mob)
+  src.loc: Era of the Shinobi (167,104,19) (/turf/interiors/inside5)
+  call stack:
+Kaguya, Safdsa (/mob): Save()
+Kaguya, Safdsa (/mob): Logout()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Save\awoo' outside of current directory.
+proc name: Start (/mob/proc/Start)
+  usr: (src)
+  src: _Awoo (/mob)
+  src.loc: Era of the Shinobi (37,239,28) (/turf/Blah)
+  call stack:
+_Awoo (/mob): Start()
+_Awoo (/mob): title screen()
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Cannot read null.appearance
+proc name: New (/obj/bounty_entry/New)
+  usr: null
+  src: the bounty entry (/obj/bounty_entry)
+  src.loc: null
+  call stack:
+the bounty entry (/obj/bounty_entry): New(null)
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+Warning: type read from file (/obj/bounty_entry) is not defined
+Warning: type read from file (/obj/bounty_entry) is not defined
+runtime error: cannot append to list
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: the swag (/mob)
+  src.loc: Era of the Shinobi (37,239,28) (/turf/Blah)
+  call stack:
+the swag (/mob): Load()
+the swag (/mob): Start()
+the swag (/mob): title screen()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+Initiating Begin()
+proc name: LoadMute (/proc/LoadMute)
+  usr: (src)
+  src: null
+  call stack:
+LoadMute()
+Begin()
+world: New()
+ARCHIVE: Loaded NPCs.
+proc name: Load NPCs (/proc/Load_NPCs)
+  usr: (src)
+  src: null
+  call stack:
+Load NPCs()
+Begin()
+world: New()
+ARCHIVE: Loaded PayRates.
+proc name: Load Rates (/proc/Load_Rates)
+  usr: (src)
+  src: null
+  call stack:
+Load Rates()
+Begin()
+world: New()
+proc name: loadBoards (/proc/loadBoards)
+  usr: (src)
+  src: null
+  call stack:
+loadBoards()
+Begin()
+world: New()
+proc name: LoadRewards (/proc/LoadRewards)
+  usr: (src)
+  src: null
+  call stack:
+LoadRewards()
+Begin()
+world: New()
+proc name: SaveYear (/proc/SaveYear)
+  usr: (src)
+  src: null
+  call stack:
+SaveYear()
+YearCheck(1)
+world: New()
+proc name: LoadSpam (/mob/proc/LoadSpam)
+  usr: (src)
+  src: Avainer1 (/mob)
+  src.loc: Era of the Shinobi (37,239,28) (/turf/Blah)
+  call stack:
+Avainer1 (/mob): LoadSpam()
+Avainer1 (/mob): Login()
+proc name: Load (/mob/proc/Load)
+  usr: (src)
+  src: Avainer1 (/mob)
+  src.loc: Era of the Shinobi (37,239,28) (/turf/Blah)
+  call stack:
+Avainer1 (/mob): Load()
+Avainer1 (/mob): Start()
+Avainer1 (/mob): title screen()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Cannot execute 0.getStrangerName().
+proc name: Click (/obj/Owl/Click)
+  usr: Nara, SWag (/mob)
+  src: Bird Stand (/obj/Owl)
+  usr.loc: Era of the Shinobi (230,84,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (229,84,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Bird Stand (/obj/Owl): Click(Era of the Shinobi (229,84,27) (/turf/Terrain/Grass/Center), "mappane.map", "icon-x=15;icon-y=18;left=1;scr...")
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read "Cancel".x
+proc name: Click (/obj/Owl/Click)
+  usr: Hu hu hu hullo (/mob)
+  src: Bird Stand (/obj/Owl)
+  usr.loc: Era of the Shinobi (229,83,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (228,84,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Bird Stand (/obj/Owl): Click(Era of the Shinobi (228,84,27) (/turf/Terrain/Grass/Center), "mappane.map", "icon-x=21;icon-y=12;left=1;scr...")
+runtime error: Cannot read "Cancel".x
+proc name: Click (/obj/Owl/Click)
+  usr: Hu hu hu hullo (/mob)
+  src: Bird Stand (/obj/Owl)
+  usr.loc: Era of the Shinobi (229,83,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (228,84,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Bird Stand (/obj/Owl): Click(Era of the Shinobi (228,84,27) (/turf/Terrain/Grass/Center), "mappane.map", "icon-x=14;icon-y=15;left=1;scr...")
+runtime error: Cannot read null.client
+proc name: Teach (/mob/verb/Teach)
+  usr: (src)
+  src: Hu hu hu hullo (/mob)
+  src.loc: Era of the Shinobi (229,83,27) (/turf/Terrain/Grass/Center)
+  call stack:
+Hu hu hu hullo (/mob): Teach()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\Mar\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.name
+proc name: BuySelectedPerk (/mob/verb/BuySelectedPerk)
+  usr: (src)
+  src: Yakumo (/mob)
+  src.loc: Era of the Shinobi (90,147,1) (/turf/Konoha/Savior/saviorbridge)
+  call stack:
+Yakumo (/mob): BuySelectedPerk()
+runtime error: Cannot read null.name
+proc name: BuySelectedPerk (/mob/verb/BuySelectedPerk)
+  usr: (src)
+  src: Yakumo (/mob)
+  src.loc: Era of the Shinobi (90,147,1) (/turf/Konoha/Savior/saviorbridge)
+  call stack:
+Yakumo (/mob): BuySelectedPerk()
+runtime error: Cannot read null.name
+proc name: BuySelectedPerk (/mob/verb/BuySelectedPerk)
+  usr: (src)
+  src: Yakumo (/mob)
+  src.loc: Era of the Shinobi (90,147,1) (/turf/Konoha/Savior/saviorbridge)
+  call stack:
+Yakumo (/mob): BuySelectedPerk()
+runtime error: Cannot read null.name
+proc name: BuySelectedPerk (/mob/verb/BuySelectedPerk)
+  usr: (src)
+  src: Yakumo (/mob)
+  src.loc: Era of the Shinobi (90,147,1) (/turf/Konoha/Savior/saviorbridge)
+  call stack:
+Yakumo (/mob): BuySelectedPerk()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\KiriNin.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\User\Dropbox\SAGA\KiriNin.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/203.166.226.174:1337
+
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,27
+  usr: (src)
+  src: Fen (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Fen (/mob): givePerk("Bunshin")
+Fen (/mob): Finalizee()
+Fen (/mob): Village()
+Fen (/mob): Creation()
+Fen (/mob): Start()
+Fen (/mob): Start()
+Fen (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,27
+  usr: (src)
+  src: Fen (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Fen (/mob): givePerk("Kawarimi")
+Fen (/mob): Finalizee()
+Fen (/mob): Village()
+Fen (/mob): Creation()
+Fen (/mob): Start()
+Fen (/mob): Start()
+Fen (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,27
+  usr: (src)
+  src: Fen (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Fen (/mob): givePerk("Henge")
+Fen (/mob): Finalizee()
+Fen (/mob): Village()
+Fen (/mob): Creation()
+Fen (/mob): Start()
+Fen (/mob): Start()
+Fen (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,27
+  usr: (src)
+  src: Fen (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Fen (/mob): givePerk("Suimen")
+Fen (/mob): Finalizee()
+Fen (/mob): Village()
+Fen (/mob): Creation()
+Fen (/mob): Start()
+Fen (/mob): Start()
+Fen (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Nara, Asd (/mob)
+  src.loc: null
+  call stack:
+Nara, Asd (/mob): givePerk("Bunshin")
+Nara, Asd (/mob): Finalizee()
+Nara, Asd (/mob): Village()
+Nara, Asd (/mob): Creation()
+Nara, Asd (/mob): Start()
+Nara, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Nara, Asd (/mob)
+  src.loc: null
+  call stack:
+Nara, Asd (/mob): givePerk("Kawarimi")
+Nara, Asd (/mob): Finalizee()
+Nara, Asd (/mob): Village()
+Nara, Asd (/mob): Creation()
+Nara, Asd (/mob): Start()
+Nara, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Nara, Asd (/mob)
+  src.loc: null
+  call stack:
+Nara, Asd (/mob): givePerk("Henge")
+Nara, Asd (/mob): Finalizee()
+Nara, Asd (/mob): Village()
+Nara, Asd (/mob): Creation()
+Nara, Asd (/mob): Start()
+Nara, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Nara, Asd (/mob)
+  src.loc: null
+  call stack:
+Nara, Asd (/mob): givePerk("Suimen")
+Nara, Asd (/mob): Finalizee()
+Nara, Asd (/mob): Village()
+Nara, Asd (/mob): Creation()
+Nara, Asd (/mob): Start()
+Nara, Asd (/mob): title screen()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+
+Webclient users can visit this address to play:
+http://www.byond.com/play/203.214.41.201:1337
+
+Wed Mar 29 11:49:08 2017
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Yuki, Asd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Yuki, Asd (/mob): givePerk("Bunshin")
+Yuki, Asd (/mob): Finalizee()
+Yuki, Asd (/mob): Village()
+Yuki, Asd (/mob): Creation()
+Yuki, Asd (/mob): Start()
+Yuki, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Yuki, Asd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Yuki, Asd (/mob): givePerk("Kawarimi")
+Yuki, Asd (/mob): Finalizee()
+Yuki, Asd (/mob): Village()
+Yuki, Asd (/mob): Creation()
+Yuki, Asd (/mob): Start()
+Yuki, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Yuki, Asd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Yuki, Asd (/mob): givePerk("Henge")
+Yuki, Asd (/mob): Finalizee()
+Yuki, Asd (/mob): Village()
+Yuki, Asd (/mob): Creation()
+Yuki, Asd (/mob): Start()
+Yuki, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Yuki, Asd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Yuki, Asd (/mob): givePerk("Suimen")
+Yuki, Asd (/mob): Finalizee()
+Yuki, Asd (/mob): Village()
+Yuki, Asd (/mob): Creation()
+Yuki, Asd (/mob): Start()
+Yuki, Asd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Hozuki, Asdasd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Hozuki, Asdasd (/mob): givePerk("Bunshin")
+Hozuki, Asdasd (/mob): Finalizee()
+Hozuki, Asdasd (/mob): Village()
+Hozuki, Asdasd (/mob): Creation()
+Hozuki, Asdasd (/mob): Start()
+Hozuki, Asdasd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Hozuki, Asdasd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Hozuki, Asdasd (/mob): givePerk("Kawarimi")
+Hozuki, Asdasd (/mob): Finalizee()
+Hozuki, Asdasd (/mob): Village()
+Hozuki, Asdasd (/mob): Creation()
+Hozuki, Asdasd (/mob): Start()
+Hozuki, Asdasd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Hozuki, Asdasd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Hozuki, Asdasd (/mob): givePerk("Henge")
+Hozuki, Asdasd (/mob): Finalizee()
+Hozuki, Asdasd (/mob): Village()
+Hozuki, Asdasd (/mob): Creation()
+Hozuki, Asdasd (/mob): Start()
+Hozuki, Asdasd (/mob): title screen()
+runtime error: Cannot read null.vars
+proc name: givePerk (/mob/proc/givePerk)
+  source file: Perks.dm,29
+  usr: (src)
+  src: Hozuki, Asdasd (/mob)
+  src.loc: Era of the Shinobi (233,83,27) (/turf/interiors/insidemisc)
+  call stack:
+Hozuki, Asdasd (/mob): givePerk("Suimen")
+Hozuki, Asdasd (/mob): Finalizee()
+Hozuki, Asdasd (/mob): Village()
+Hozuki, Asdasd (/mob): Creation()
+Hozuki, Asdasd (/mob): Start()
+Hozuki, Asdasd (/mob): title screen()
+World opened on network port 1337.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Loaded PayRates.
+runtime error: Cannot read null.Verification
+proc name: Click (/mob/NPC/Bounty_Guy/Click)
+  source file: bounty_stuff.dm,74
+  usr: Yuki, Asd (/mob)
+  src: Bounty Guy (/mob/NPC/Bounty_Guy)
+  usr.loc: Era of the Shinobi (222,78,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc)
+  call stack:
+Bounty Guy (/mob/NPC/Bounty_Guy): Click(Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc), "mappane.map", "icon-x=20;icon-y=12;left=1;scr...")
+runtime error: Cannot read null.Verification
+proc name: Click (/mob/NPC/Bounty_Guy/Click)
+  source file: bounty_stuff.dm,74
+  usr: Yuki, Asd (/mob)
+  src: Bounty Guy (/mob/NPC/Bounty_Guy)
+  usr.loc: Era of the Shinobi (222,78,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc)
+  call stack:
+Bounty Guy (/mob/NPC/Bounty_Guy): Click(Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc), "mappane.map", "icon-x=17;icon-y=19;left=1;scr...")
+runtime error: Cannot read null.Verification
+proc name: Click (/mob/NPC/Bounty_Guy/Click)
+  source file: bounty_stuff.dm,74
+  usr: Yuki, Asd (/mob)
+  src: Bounty Guy (/mob/NPC/Bounty_Guy)
+  usr.loc: Era of the Shinobi (222,78,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc)
+  call stack:
+Bounty Guy (/mob/NPC/Bounty_Guy): Click(Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc), "mappane.map", "icon-x=13;icon-y=17;left=1;scr...")
+runtime error: Cannot read "s".name
+proc name: Death (/mob/proc/Death)
+  source file: Combat.dm,43
+  usr: Yuki, Asd (/mob)
+  src: Eduardo (/mob)
+  usr.loc: Era of the Shinobi (223,80,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (142,153,25) (/turf/Terrain/Grass/Center)
+  call stack:
+Eduardo (/mob): Death("s")
+runtime error: Cannot read null.Verification
+proc name: Click (/mob/NPC/Bounty_Guy/Click)
+  source file: bounty_stuff.dm,74
+  usr: Yuki, Asd (/mob)
+  src: Bounty Guy (/mob/NPC/Bounty_Guy)
+  usr.loc: Era of the Shinobi (222,78,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc)
+  call stack:
+Bounty Guy (/mob/NPC/Bounty_Guy): Click(Era of the Shinobi (222,79,27) (/turf/interiors/insidemisc), "mappane.map", "icon-x=16;icon-y=14;left=1;scr...")
+runtime error: Cannot read "asd".name
+proc name: Death (/mob/proc/Death)
+  source file: Combat.dm,43
+  usr: Yuki, Asd (/mob)
+  src: Man (/mob)
+  usr.loc: Era of the Shinobi (222,76,27) (/turf/Terrain/Grass/Center)
+  src.loc: Era of the Shinobi (142,153,25) (/turf/Terrain/Grass/Center)
+  call stack:
+Man (/mob): Death("asd")
