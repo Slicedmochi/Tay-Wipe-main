@@ -1,0 +1,5 @@
+<br>Sun Apr 18 09:20:25 2021<font color=white>Your check has been sent to you with a sum of $100 Ryo! | (X:1 Y:1 Z:1)
+<br>Sun Apr 18 10:59:12 2021<font color="#db7a20">(Dogtooth)(Yuki, Duki)Yuki, Duki<font color = white> has gone AFK | (X:10 Y:7 Z:1)
+<br>Sun Apr 18 10:59:12 2021<font size=-4><font color=white>*Yuki, Duki has gone AUTOAFK * | (X:10 Y:7 Z:1)
+<br>Sun Apr 18 11:00:16 2021<font color="#db7a20">(Dogtooth)(Yuki, Duki)Yuki, Duki<font color = white> is no longer AFK | (X:10 Y:7 Z:1)
+<br>Sun Apr 18 11:31:12 2021<font color=white>Your check has been sent to you with a sum of $100 Ryo! | (X:20 Y:5 Z:1)

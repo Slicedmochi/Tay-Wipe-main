@@ -33874,3 +33874,501 @@ Mon Apr 05 23:02:02 2021
 Tessenka no Mai has been saved to the jutsu archives.
 Tenshi Sendan has been saved to the jutsu archives.
 Sawarabi no Mai has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Fri Apr 16 18:43:55 2021
+Katon: Gokakyu no Jutsu has been saved to the jutsu archives.
+Katon: Ryuka no Jutsu has been saved to the jutsu archives.
+Katon: Hosenka no Jutsu has been saved to the jutsu archives.
+Sharingan I has been saved to the jutsu archives.
+Fri Apr 16 19:51:25 2021
+Katon: Goryuka no Jutsu has been saved to the jutsu archives.
+Fri Apr 16 21:38:28 2021
+Uchihagaeshi has been saved to the jutsu archives.
+Sharingan: Mimic has been saved to the jutsu archives.
+Future Sight has been saved to the jutsu archives.
+Fri Apr 16 23:03:22 2021
+Genjutsu: Sharingan has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Amaterasu has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Tsukuyomi has been saved to the jutsu archives.
+Susanoo has been saved to the jutsu archives.
+Sword of Totsuka has been saved to the jutsu archives.
+Sat Apr 17 14:54:36 2021
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Age (/mob/proc/Age)
+  usr: null
+  src: Jutsu Archive (/archive)
+  src.loc: null
+  call stack:
+Jutsu Archive (/archive): Age()
+Jutsu Archive (/archive): CheckYear()
+Jutsu Archive (/archive): TriggerDay()
+Jutsu Archive (/archive): DayLoop()
+world: New()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Yata Mirror has been saved to the jutsu archives.
+Kamui: Right Eye has been saved to the jutsu archives.
+Kamui: Left Eye has been saved to the jutsu archives.
+Kamui Shuriken has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Kagutsuchi has been saved to the jutsu archives.
+Amaterasu: Entenka has been saved to the jutsu archives.
+Enton: Honoikazuchi has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Enton: Susanoo Kagutsuchi has been saved to the jutsu archives.
+Bow of Vajra has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+Kaguya, Tay (/mob): Give Archived Jutsu(Kaguya, Tay (/mob))
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+Kaguya, Tay (/mob): Give Archived Jutsu(Kaguya, Tay (/mob))
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=26;icon-y=11;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=26;icon-y=11;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=26;icon-y=11;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=48;icon-y=12;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=31;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=31;icon-y=12;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=31;icon-y=12;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=18;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=27;icon-y=10;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=27;icon-y=10;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=27;icon-y=10;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=51;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=28;icon-y=14;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=28;icon-y=14;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=28;icon-y=14;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=32;icon-y=13;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=44;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=44;icon-y=19;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=44;icon-y=19;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=38;icon-y=21;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/perk_button_off (/perk_button_off): Click(the perk button off image (/perk_button_off_image))
+the perk button off image (/perk_button_off_image): Click(null, "mappane.map", "icon-x=52;icon-y=11;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=52;icon-y=11;left=1;scr...")
+Dogtooth (/client): Click(the perk button off image (/perk_button_off_image), null, "mappane.map", "icon-x=52;icon-y=11;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: clear objects (/jutsu_box/proc/clear_objects)
+  usr: Kaguya, Tay (/mob)
+  src: /jutsu_box (/jutsu_box)
+  usr.loc: Era of the Shinobi (14,11,1) (/turf/Terrain/Grassd)
+  call stack:
+/jutsu_box (/jutsu_box): clear objects()
+/jutsu_box (/jutsu_box): display objects(/list (/list))
+/jutsu_box (/jutsu_box): display interface(/list (/list))
+/jutsu_box (/jutsu_box): tab switch(Kaguya, Tay (/mob))
+/jutsu_button_off (/jutsu_button_off): Click(the jutsu button off image (/jutsu_button_off_image))
+the jutsu button off image (/jutsu_button_off_image): Click(null, "mappane.map", "icon-x=43;icon-y=17;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=43;icon-y=17;left=1;scr...")
+Dogtooth (/client): Click(the jutsu button off image (/jutsu_button_off_image), null, "mappane.map", "icon-x=43;icon-y=17;left=1;scr...")
+runtime error: Cannot modify null.icon.
+proc name: display objects (/jutsu_box/proc/display_objects)
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Sun Apr 18 00:29:35 2021
+Infinite loop suspected--switching proc to background.
+If it is not an infinite loop, either do 'set background=1' or set world.loop_checks=0.
+proc name: Age (/mob/proc/Age)
+  usr: null
+  src: Jutsu Archive (/archive)
+  src.loc: null
+  call stack:
+Jutsu Archive (/archive): Age()
+Jutsu Archive (/archive): CheckYear()
+Jutsu Archive (/archive): TriggerDay()
+Jutsu Archive (/archive): DayLoop()
+world: New()
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Fluidity has been saved to the jutsu archives.
+Futamo has been saved to the jutsu archives.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+ARCHIVE: Attempting to load archive files...
+ARCHIVE: Loaded archive_jutsu.
+ARCHIVE: Loaded archive_perks.
+ARCHIVE: Loaded archive_scrolls.
+ARCHIVE: Loaded archive_weapons.
+ARCHIVE: Loaded archive_variables.
+ARCHIVE: Load complete.
+Initiating Begin()
+ARCHIVE: Loaded NPCs.
+Undulating Blade has been saved to the jutsu archives.
+Kotoanmatsukami has been saved to the jutsu archives.
+Needle Barrage has been saved to the jutsu archives.
+Seamless Drilling Lance has been saved to the jutsu archives.
+runtime error: undefined variable /obj/var/jutsu_type
+proc name: Archive Perk (/mob/Admin3/verb/Archive_Perk)
+  usr: (src)
+  src: Yuki, Duki (/mob)
+  src.loc: Era of the Shinobi (19,7,1) (/turf/Terrain/Grassd)
+  call stack:
+Yuki, Duki (/mob): Archive Perk(the obj (/obj))
+proc name: Save (/mob/proc/Save)
+  usr: (src)
+  src: Yuki, Duki (/mob)
+  src.loc: Era of the Shinobi (19,7,1) (/turf/Terrain/Grassd)
+  call stack:
+Yuki, Duki (/mob): Save()
+Yuki, Duki (/mob): AutoSave()
+Yuki, Duki (/mob): AutoSave()
+proc name: SaveLogs (/proc/SaveLogs)
+  usr: Yuki, Duki (/mob)
+  src: null
+  usr.loc: Era of the Shinobi (19,7,1) (/turf/Terrain/Grassd)
+  call stack:
+SaveLogs()
+Yuki, Duki (/mob): Give Archived Perk(Yuki, Duki (/mob))
+proc name: Save (/mob/proc/Save)
+  usr: (src)
+  src: Yuki, Duki (/mob)
+  src.loc: Era of the Shinobi (19,7,1) (/turf/Terrain/Grassd)
+  call stack:
+Yuki, Duki (/mob): Save()
+Yuki, Duki (/mob): Logout()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Perksave.sav' outside of current directory.
+proc name: Perks List Save (/proc/Perks_List_Save)
+  usr: (src)
+  src: null
+  call stack:
+Perks List Save()
+SaveAll()
+world: Del()
+proc name: SaveObjects (/proc/SaveObjects)
+  usr: (src)
+  src: null
+  call stack:
+SaveObjects()
+SaveAll()
+world: Del()
+proc name: SaveRanks (/proc/SaveRanks)
+  usr: (src)
+  src: null
+  call stack:
+SaveRanks()
+SaveAll()
+world: Del()
+proc name: SaveLogs (/proc/SaveLogs)
+  usr: (src)
+  src: null
+  call stack:
+SaveLogs()
+SaveAll()
+world: Del()
+proc name: Save Admins (/proc/Save_Admins)
+  usr: (src)
+  src: null
+  call stack:
+Save Admins()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+proc name: Save Ban (/proc/Save_Ban)
+  usr: (src)
+  src: null
+  call stack:
+Save Ban()
+SaveAll()
+world: Del()
+proc name: SaveRules (/proc/SaveRules)
+  usr: (src)
+  src: null
+  call stack:
+SaveRules()
+SaveAll()
+world: Del()
+proc name: SaveYear (/proc/SaveYear)
+  usr: (src)
+  src: null
+  call stack:
+SaveYear()
+SaveAll()
+world: Del()
+proc name: SaveRewards (/proc/SaveRewards)
+  usr: (src)
+  src: null
+  call stack:
+SaveRewards()
+SaveAll()
+world: Del()
+proc name: save archive (/archive/proc/save_archive)
+  usr: null
+  src: Jutsu Archive (/archive)
+  src.loc: null
+  call stack:
+Jutsu Archive (/archive): save archive()
+SaveAll()
+world: Del()
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+proc name: saveBoards (/proc/saveBoards)
+  usr: (src)
+  src: null
+  call stack:
+saveBoards()
+SaveAll()
+world: Del()
+proc name: SaveVillageNotes (/proc/SaveVillageNotes)
+  usr: (src)
+  src: null
+  call stack:
+SaveVillageNotes()
+SaveAll()
+world: Del()
+proc name: Save NPCs (/proc/Save_NPCs)
+  usr: (src)
+  src: null
+  call stack:
+Save NPCs()
+SaveAll()
+world: Del()
+proc name: SaveObjects (/proc/SaveObjects)
+proc name: SaveRanks (/proc/SaveRanks)
+proc name: SaveLogs (/proc/SaveLogs)
+proc name: Save Admins (/proc/Save_Admins)
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+proc name: Save Ban (/proc/Save_Ban)
+proc name: SaveRules (/proc/SaveRules)
+proc name: SaveYear (/proc/SaveYear)
+proc name: SaveMute (/proc/SaveMute)
+proc name: SaveRewards (/proc/SaveRewards)
+proc name: saveBoards (/proc/saveBoards)
+proc name: SaveVillageNotes (/proc/SaveVillageNotes)
+proc name: SaveFunds (/proc/SaveFunds)
