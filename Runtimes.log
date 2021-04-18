@@ -34372,3 +34372,41 @@ proc name: SaveRewards (/proc/SaveRewards)
 proc name: saveBoards (/proc/saveBoards)
 proc name: SaveVillageNotes (/proc/SaveVillageNotes)
 proc name: SaveFunds (/proc/SaveFunds)
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Perksave.sav' outside of current directory.
+proc name: Perks List Save (/proc/Perks_List_Save)
+  usr: (src)
+  src: null
+  call stack:
+Perks List Save()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+SaveAll()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Storyline.txt' outside of current directory.
+proc name: SaveStory (/proc/SaveStory)
+  usr: (src)
+  src: null
+  call stack:
+SaveStory()
+world: Del()
+runtime error: Safety violation: tried to access 'C:\Users\theho\Desktop\Tay Wipe\Tay-Wipe-main\Suggestions.sav' outside of current directory.
+proc name: SaveMute (/proc/SaveMute)
+  usr: (src)
+  src: null
+  call stack:
+SaveMute()
+world: Del()
